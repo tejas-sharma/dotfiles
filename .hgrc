@@ -1,0 +1,8 @@
+[paths]
+default = <default repo>
+[ui]
+username = Tejas Sharmamani <sharmatejas0@gmail.com>
+merge=vimdiff
+[merge-tools]
+vimdiff.executable = vim
+vimdiff.args = -d $base $local $output $other +close +close
