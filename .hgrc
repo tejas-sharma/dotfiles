@@ -12,3 +12,4 @@ rebase =
 graphlog =
 color =
 strip =
+shelve =
