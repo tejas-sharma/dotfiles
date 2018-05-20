@@ -8,3 +8,7 @@ vimdiff.executable = vim
 vimdiff.args = -d $base $local $output $other +close +close
 [extensions]
 fetch = 
+rebase =
+graphlog =
+color =
+strip =
